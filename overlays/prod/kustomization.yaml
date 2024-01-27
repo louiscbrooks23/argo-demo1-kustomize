@@ -5,4 +5,4 @@ resources:
   - firstpod.yaml
 images:
 - name: nginx
-  newTag: 1.24
+  newTag: "1.24"
