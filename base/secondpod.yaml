@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: secondpod
+  namespace: default
+  annotations:
+    argocd.argoproj.io/sync-wave: "2"
+spec:
+  containers: 
+  - name: secondpod
+    image: nginx
