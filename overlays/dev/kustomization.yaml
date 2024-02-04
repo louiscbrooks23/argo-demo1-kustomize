@@ -4,3 +4,6 @@ resources:
 - ../../base
 patches:
 - path: firstpod.yaml
+images: 
+  - name: nginx 
+    newTag: "1.25"
