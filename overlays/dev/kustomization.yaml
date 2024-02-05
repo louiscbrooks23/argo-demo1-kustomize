@@ -7,3 +7,5 @@ patches:
 # images: 
 #   - name: nginx 
 #     newTag: "1.25"
+# https://argo-cd.readthedocs.io/en/stable/user-guide/kustomize/
+
