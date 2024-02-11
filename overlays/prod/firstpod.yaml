@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: firstpod
- spec:
+spec: 
   containers: 
   - name: firstpod
     image: nginx:1.24
