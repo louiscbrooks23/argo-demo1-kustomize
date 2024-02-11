@@ -5,4 +5,3 @@ resources:
   - firstpod.yaml
   - secondpod.yaml
   - thirdpod.yaml
-  - argo-demo-app.yaml
