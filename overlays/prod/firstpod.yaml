@@ -2,4 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: firstpod
-  namespace: prod
+ spec:
+  containers: 
+  - name: firstpod
+    image: nginx:1.24
