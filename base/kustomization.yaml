@@ -4,4 +4,3 @@ kind: Kustomization
 resources:
   - firstpod.yaml
   - secondpod.yaml
-  - thirdpod.yaml
